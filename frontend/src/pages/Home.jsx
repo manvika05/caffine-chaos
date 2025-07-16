@@ -1,5 +1,5 @@
 import React from 'react';
-import coffeeImage from '../assets/coffee.webp';
+import coffeeImage from '../assets/Coffee.webp';
 import {Link} from  'react-router-dom';
 import team from '../assets/team.webp';
 
